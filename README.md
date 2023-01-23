@@ -1,3 +1,3 @@
 # Project ideas
 
-## Home-assistant plan watering
+## Home-assistant plant watering
