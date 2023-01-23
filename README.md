@@ -1,1 +1,3 @@
-# project-ideas
+# Project ideas
+
+## Home-assistant plan watering
